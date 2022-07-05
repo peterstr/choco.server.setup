@@ -16,6 +16,7 @@ brew install git
 brew install terraform
 brew install vault
 brew install wget
+brew install helm
 
 brew install --cask google-chrome
 brew install --cask iterm2
